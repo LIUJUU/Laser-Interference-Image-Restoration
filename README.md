@@ -4,3 +4,18 @@ Implementation of the paper"Performance Improvement of Laser Interference Image 
 The code will be uploaded soon.
 
 ![image](https://github.com/user-attachments/assets/e44ebf5f-3c5f-489c-9f28-afc111a70577)
+
+#Abstract
+With the widespread use of laser technology in military and civilian areas, laser
+interference has become a significant problem for optoelectronic devices. Traditional image
+restoration methods like filtering and interpolation often fail to effectively address nonlinear
+damage and dynamic changes. Thus, this paper introduces a new deep learning framework
+that leverages Convolutional Neural Networks and multi-head attention mechanisms to
+extract multi-scale features, enabling a better understanding and restoration of image
+structures. We created synthetic laser interference image datasets for five scenarios
+containing 5000 images for testing. Experimental results show that this method not only
+visually restores images damaged by laser interference but also performs well on quantitative
+metrics such as peak signal-to-noise ratio (PSNR) and structural similarity (SSIM).The PSNR
+were all above 34 and SSIM were all above 0.98. Looking ahead, this technology promises
+broader applications in laser interference scenarios, offering support for both military defense
+and civilian technologies.
