@@ -19,3 +19,8 @@ metrics such as peak signal-to-noise ratio (PSNR) and structural similarity (SSI
 were all above 34 and SSIM were all above 0.98. Looking ahead, this technology promises
 broader applications in laser interference scenarios, offering support for both military defense
 and civilian technologies.
+# DATA
+![image](https://github.com/user-attachments/assets/d889807a-395a-405a-ae45-19e74f29b58e)
+
+please click the link：https://drive.google.com/file/d/16xM0B1BCi-cujPTuA9Y8ezDT8ad6-kM7/view?usp=drive_link
+
