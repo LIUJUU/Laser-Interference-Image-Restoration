@@ -3,8 +3,6 @@ Implementation of the paper"Performance Improvement of Laser Interference Image 
 
 The code will be uploaded soon.
 
-![image](https://github.com/user-attachments/assets/e44ebf5f-3c5f-489c-9f28-afc111a70577)
-
 # Abstract
 With the widespread use of laser technology in military and civilian areas, laser
 interference has become a significant problem for optoelectronic devices. Traditional image
@@ -19,6 +17,10 @@ metrics such as peak signal-to-noise ratio (PSNR) and structural similarity (SSI
 were all above 34 and SSIM were all above 0.98. Looking ahead, this technology promises
 broader applications in laser interference scenarios, offering support for both military defense
 and civilian technologies.
+
+![image](https://github.com/user-attachments/assets/e44ebf5f-3c5f-489c-9f28-afc111a70577)
+
+
 # DATA
 ![image](https://github.com/user-attachments/assets/d889807a-395a-405a-ae45-19e74f29b58e)
 
