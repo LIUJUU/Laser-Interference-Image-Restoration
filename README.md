@@ -1,8 +1,6 @@
 # Laser-Interference-Image-Restoration
 Implementation of the paper"Performance Improvement of Laser Interference Image Restoration Based on Multi-Scale Feature Fusion".
 
-The code will be uploaded soon.
-
 # Abstract
 With the widespread use of laser technology in military and civilian areas, laser
 interference has become a significant problem for optoelectronic devices. Traditional image
