@@ -22,7 +22,6 @@ and civilian technologies.
 
 
 # DATA
-![image](https://pan.baidu.com/s/1Ld0ZyRIBtTIipP-WVoG3Tg?pwd=12qw)
-
-please click the link：https://drive.google.com/file/d/16xM0B1BCi-cujPTuA9Y8ezDT8ad6-kM7/view?usp=drive_link
-
+please click the link：
+通过百度网盘分享的文件：data
+链接：https://pan.baidu.com/s/1vJJjk54jB2AugvegKipitA?pwd=016d 
